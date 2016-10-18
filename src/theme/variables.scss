@@ -9,9 +9,9 @@
 // the Sass variables found in Ionic's source scss files.
 // To view all the possible Ionic variables, see:
 // http://ionicframework.com/docs/v2/theming/overriding-ionic-variables/
-
-$text-color:        #000;
-$background-color:  #fff;
+// 
+// $text-color:        #000;
+// $background-color:  #fff;
 
 
 // Named Color Variables
@@ -31,6 +31,14 @@ $colors: (
   favorite:   #69BB7B
 );
 
+// $colors: (
+//   primary:    #95a5a6,
+//   secondary:  #3498db,
+//   danger:     #000000,
+//   light:      #f4f4f4,
+//   dark:       #222,
+//   favorite:   #69BB7B
+// );
 
 // App iOS Variables
 // --------------------------------------------------
@@ -70,3 +78,12 @@ $colors: (
 
 $ionicons-font-path: "../assets/fonts";
 @import "ionicons";
+
+// $colors: (
+//   primary:    #95a5a6,
+//   secondary:  #3498db,
+//   danger:     #000000,
+//   light:      #f4f4f4,
+//   dark:       #222,
+//   favorite:   #69BB7B
+// );

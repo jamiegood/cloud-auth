@@ -14,3 +14,20 @@
 // To declare rules for a specific mode, create a child rule
 // for the .md, .ios, or .wp mode classes. The mode class is
 // automatically applied to the <body> element in the app.
+@import "../pages/home/home";
+@import "../pages/login/login";
+@import "../pages/signup/signup";
+
+
+$colors: (
+  primary:    #000000,
+  secondary:  #3498db,
+  danger:     #000000,
+  light:      #f4f4f4,
+  dark:       #222,
+  favorite:   #69BB7B
+);
+
+.whatever {
+  background-color: #000;
+}
