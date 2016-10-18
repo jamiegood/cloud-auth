@@ -4,7 +4,7 @@ import { StatusBar } from 'ionic-native';
 
 //import { TabsPage } from '../pages/tabs/tabs';
 //import PouchDB from 'pouchdb';
-import {LoginPage} from '../pages/login/login';
+import { LoginPage } from '../pages/login/login';
 
 
 
